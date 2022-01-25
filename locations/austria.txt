@@ -1,0 +1,35 @@
+CAR SETUP
+
+Austria (Red Bull Ring)
+
+Aerodynamics
+Front Wing Aero: 2
+Rear Wing Aero: 5
+
+Transmission
+Differential Adjustment on Throttle: 50%
+Differential Adjustment off Throttle: 51%
+
+Suspension Geometry
+Front Camber: -2.60
+Rear Camber: -1.10
+Front Toe: 0.05
+Rear Toe: 0.20
+
+Suspension
+Front Suspension: 2
+Rear Suspension: 7
+Front Anti-Roll Bar: 1
+Rear Anti-Roll Bar: 8
+Front Ride Height: 2
+Rear Ride Height: 3
+
+Brakes
+Brake Pressure: 100%
+Front Brake Bias: 50%
+
+Tyres
+Front Right Tyre Pressure: 21.8psi
+Front Left Tyre Pressure: 21.8psi
+Rear Right Tyre Pressure: 20.3psi
+Rear Left Tyre Pressure: 20.3psi

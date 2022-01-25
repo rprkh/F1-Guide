@@ -1,0 +1,35 @@
+CAR SETUP
+
+Abu Dhabi (Yas Marina Circuit)
+
+Aerodynamics
+Front Wing Aero: 6
+Rear Wing Aero: 9
+
+Transmission
+Differential Adjustment on Throttle: 69%
+Differential Adjustment off Throttle: 63%
+
+Suspension Geometry
+Front Camber: -2.50
+Rear Camber: -1.00
+Front Toe: 0.05
+Rear Toe: 0.20
+
+Suspension
+Front Suspension: 1
+Rear Suspension: 2
+Front Anti-Roll Bar: 4
+Rear Anti-Roll Bar: 11
+Front Ride Height: 3
+Rear Ride Height: 4
+
+Brakes
+Brake Pressure: 80%
+Front Brake Bias: 54%
+
+Tyres
+Front Right Tyre Pressure: 23.4psi
+Front Left Tyre Pressure: 23.4psi
+Rear Right Tyre Pressure: 21.1psi
+Rear Left Tyre Pressure: 21.1psi

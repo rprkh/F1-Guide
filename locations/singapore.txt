@@ -1,0 +1,35 @@
+CAR SETUP
+
+Singapore (Marina Bay Street Circuit)
+
+Aerodynamics
+Front Wing Aero: 9
+Rear Wing Aero: 11
+
+Transmission
+Differential Adjustment on Throttle: 50%
+Differential Adjustment off Throttle: 52%
+
+Suspension Geometry
+Front Camber: -2.50
+Rear Camber: -1.00
+Front Toe: 0.05
+Rear Toe: 0.20
+
+Suspension
+Front Suspension: 1
+Rear Suspension: 8
+Front Anti-Roll Bar: 9
+Rear Anti-Roll Bar: 9
+Front Ride Height: 1
+Rear Ride Height: 3
+
+Brakes
+Brake Pressure: 100%
+Front Brake Bias: 50%
+
+Tyres
+Front Right Tyre Pressure: 21.0psi
+Front Left Tyre Pressure: 21.0psi
+Rear Right Tyre Pressure: 19.5psi
+Rear Left Tyre Pressure: 19.5psi

@@ -1,0 +1,35 @@
+CAR SETUP
+
+Australia (Albert Park)
+
+Aerodynamics
+Front Wing Aero: 4
+Rear Wing Aero: 9
+
+Transmission
+Differential Adjustment on Throttle: 50%
+Differential Adjustment off Throttle: 60%
+
+Suspension Geometry
+Front Camber: -2.60
+Rear Camber: -1.20
+Front Toe: 0.05
+Rear Toe: 0.23
+
+Suspension
+Front Suspension: 1
+Rear Suspension: 8
+Front Anti-Roll Bar: 11
+Rear Anti-Roll Bar: 9
+Front Ride Height: 2
+Rear Ride Height: 4
+
+Brakes
+Brake Pressure: 100%
+Front Brake Bias: 50%
+
+Tyres
+Front Right Tyre Pressure: 24.2psi
+Front Left Tyre Pressure: 23.0psi
+Rear Right Tyre Pressure: 22.3psi
+Rear Left Tyre Pressure: 21.1psi

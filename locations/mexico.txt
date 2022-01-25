@@ -1,0 +1,35 @@
+CAR SETUP
+
+Mexico (Autodromo Hermanos Rodriguez)
+
+Aerodynamics
+Front Wing Aero: 5
+Rear Wing Aero: 6
+
+Transmission
+Differential Adjustment on Throttle: 70%
+Differential Adjustment off Throttle: 65%
+
+Suspension Geometry
+Front Camber: -3.00
+Rear Camber: -1.50
+Front Toe: 0.10
+Rear Toe: 0.35
+
+Suspension
+Front Suspension: 5
+Rear Suspension: 3
+Front Anti-Roll Bar: 6
+Rear Anti-Roll Bar: 5
+Front Ride Height: 5
+Rear Ride Height: 7
+
+Brakes
+Brake Pressure: 100%
+Front Brake Bias: 58%
+
+Tyres
+Front Right Tyre Pressure: 23.0psi
+Front Left Tyre Pressure: 23.0psi
+Rear Right Tyre Pressure: 21.5psi
+Rear Left Tyre Pressure: 21.5psi

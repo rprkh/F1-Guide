@@ -1,0 +1,35 @@
+CAR SETUP
+
+Canada (Circuit Gilles Villeneuve)
+
+Aerodynamics
+Front Wing Aero: 4
+Rear Wing Aero: 4
+
+Transmission
+Differential Adjustment on Throttle: 70%
+Differential Adjustment off Throttle: 65%
+
+Suspension Geometry
+Front Camber: -2.60
+Rear Camber: -1.10
+Front Toe: 0.06
+Rear Toe: 0.20
+
+Suspension
+Front Suspension: 4
+Rear Suspension: 4
+Front Anti-Roll Bar: 5
+Rear Anti-Roll Bar: 5
+Front Ride Height: 4
+Rear Ride Height: 5
+
+Brakes
+Brake Pressure: 100%
+Front Brake Bias: 58%
+
+Tyres
+Front Right Tyre Pressure: 21.8psi
+Front Left Tyre Pressure: 21.8psi
+Rear Right Tyre Pressure: 20.7psi
+Rear Left Tyre Pressure: 20.7psi

@@ -1,0 +1,35 @@
+CAR SETUP
+
+Bahrain (Bahrain International Circuit)
+
+Aerodynamics
+Front Wing Aero: 3
+Rear Wing Aero: 7
+
+Transmission
+Differential Adjustment on Throttle: 50%
+Differential Adjustment off Throttle: 65%
+
+Suspension Geometry
+Front Camber: -3.00
+Rear Camber: -1.50
+Front Toe: 0.10
+Rear Toe: 0.35
+
+Suspension
+Front Suspension: 4
+Rear Suspension: 9
+Front Anti-Roll Bar: 7
+Rear Anti-Roll Bar: 8
+Front Ride Height: 3
+Rear Ride Height: 4
+
+Brakes
+Brake Pressure: 100%
+Front Brake Bias: 52%
+
+Tyres
+Front Right Tyre Pressure: 22.6psi
+Front Left Tyre Pressure: 22.2psi
+Rear Right Tyre Pressure: 21.1psi
+Rear Left Tyre Pressure: 20.7psi

@@ -1,0 +1,35 @@
+CAR SETUP
+
+Hungary (Hungaroring)
+
+Aerodynamics
+Front Wing Aero: 7
+Rear Wing Aero: 10
+
+Transmission
+Differential Adjustment on Throttle: 50%
+Differential Adjustment off Throttle: 55%
+
+Suspension Geometry
+Front Camber: -2.50
+Rear Camber: -1.00
+Front Toe: 0.05
+Rear Toe: 0.20
+
+Suspension
+Front Suspension: 1
+Rear Suspension: 9
+Front Anti-Roll Bar: 7
+Rear Anti-Roll Bar: 9
+Front Ride Height: 2
+Rear Ride Height: 4
+
+Brakes
+Brake Pressure: 100%
+Front Brake Bias: 50%
+
+Tyres
+Front Right Tyre Pressure: 21.0psi
+Front Left Tyre Pressure: 21.0psi
+Rear Right Tyre Pressure: 19.5psi
+Rear Left Tyre Pressure: 19.5psi

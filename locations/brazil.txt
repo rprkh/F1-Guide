@@ -1,0 +1,35 @@
+CAR SETUP
+
+Brazil (Interlagos)
+
+Aerodynamics
+Front Wing Aero: 3
+Rear Wing Aero: 6
+
+Transmission
+Differential Adjustment on Throttle: 60%
+Differential Adjustment off Throttle: 85%
+
+Suspension Geometry
+Front Camber: -2.50
+Rear Camber: -1.00
+Front Toe: 0.05
+Rear Toe: 0.20
+
+Suspension
+Front Suspension: 4
+Rear Suspension: 3
+Front Anti-Roll Bar: 5
+Rear Anti-Roll Bar: 4
+Front Ride Height: 3
+Rear Ride Height: 4
+
+Brakes
+Brake Pressure: 86%
+Front Brake Bias: 52%
+
+Tyres
+Front Right Tyre Pressure: 23.8psi
+Front Left Tyre Pressure: 23.8psi
+Rear Right Tyre Pressure: 21.1psi
+Rear Left Tyre Pressure: 21.1psi

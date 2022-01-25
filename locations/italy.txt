@@ -1,0 +1,35 @@
+CAR SETUP
+
+Italy (Autodromo Nazionale di Monza)
+
+Aerodynamics
+Front Wing Aero: 2
+Rear Wing Aero: 5
+
+Transmission
+Differential Adjustment on Throttle: 55%
+Differential Adjustment off Throttle: 57%
+
+Suspension Geometry
+Front Camber: -2.60
+Rear Camber: -2.00
+Front Toe: 0.05
+Rear Toe: 0.20
+
+Suspension
+Front Suspension: 1
+Rear Suspension: 11
+Front Anti-Roll Bar: 2
+Rear Anti-Roll Bar: 5
+Front Ride Height: 1
+Rear Ride Height: 3
+
+Brakes
+Brake Pressure: 100%
+Front Brake Bias: 50%
+
+Tyres
+Front Right Tyre Pressure: 21.8psi
+Front Left Tyre Pressure: 21.8psi
+Rear Right Tyre Pressure: 23.1psi
+Rear Left Tyre Pressure: 23.1psi

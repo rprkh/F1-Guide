@@ -1,0 +1,35 @@
+CAR SETUP
+
+France (Circuit Paul Ricard)
+
+Aerodynamics
+Front Wing Aero: 3
+Rear Wing Aero: 7
+
+Transmission
+Differential Adjustment on Throttle: 60%
+Differential Adjustment off Throttle: 55%
+
+Suspension Geometry
+Front Camber: -2.80
+Rear Camber: -1.30
+Front Toe: 0.09
+Rear Toe: 0.32
+
+Suspension
+Front Suspension: 1
+Rear Suspension: 4
+Front Anti-Roll Bar: 7
+Rear Anti-Roll Bar: 10
+Front Ride Height: 1
+Rear Ride Height: 2
+
+Brakes
+Brake Pressure: 96%
+Front Brake Bias: 50%
+
+Tyres
+Front Right Tyre Pressure: 23.0psi
+Front Left Tyre Pressure: 21.8psi
+Rear Right Tyre Pressure: 21.1psi
+Rear Left Tyre Pressure: 20.7psi
